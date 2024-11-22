@@ -1,0 +1,29 @@
+.Footer-container {
+    background: linear-gradient(to top, rgb(204, 203, 203), #e8e3ef);
+    padding: 20px;
+    text-align: center;
+}
+
+.Footer-container h2, .Footer-container h4 {
+    margin: 10px 0;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    margin-top: 10px;
+}
+
+.social-icon {
+    font-size: 30px; 
+    color: #555; 
+    transition: color 0.3s; 
+    cursor: pointer;
+}
+
+.social-icon:hover {
+    color: #007bff; 
+}
+
+
