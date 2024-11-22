@@ -1,0 +1,33 @@
+.navbar{
+    display: flex; 
+    font-weight: bold;
+    background-color: #6a0dad;
+    height: 15vh
+    
+}
+
+.Navbar-Option{
+    display: flex;
+    gap: 80px;
+    margin-left: 300px;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-right: 100px;
+
+}
+.Navbar-Option p{
+    cursor: pointer;
+    color: white;
+}
+.Navbar-Option p:hover{
+    color: greenyellow
+}
+.navbar h4{
+    margin-left: 30px;
+    color: greenyellow;
+    font-size: 25px;
+
+}
+.Navbar-Option p.active {
+    color: greenyellow; 
+}
