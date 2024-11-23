@@ -1,0 +1,21 @@
+
+.card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border-radius: 20px;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 30px;
+}
+.card-img-top{
+    width: 300px;
+    height: 300px;
+}
+.Search-icon{
+    margin-top: 20px;
+    display: flex;
+    gap: 50px;
+}
+.Link-tag{
+    margin-top: 15px;
+}
+
